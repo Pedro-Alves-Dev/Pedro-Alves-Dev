@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Olá, me chamo Pedro Alves;<br>👀 Atualmente, estou focado em Análise e Visualização de Dados;<br>🌱 Estou aprendendo Python, PowerBi e algumas outras ferramentas de visualização de dados;<br>📫 Como me achar: pedro2032004@gmail.com
+# 👋 Olá, me chamo Pedro Alves
+👀 Atualmente, estou focado em Análise e Visualização de Dados;<br>🌱 Estou aprendendo Python, PowerBi e algumas outras ferramentas de visualização de dados;<br>📫 Como me achar: pedro2032004@gmail.com
 
 
 ## 🌐 Socials:
