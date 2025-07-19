@@ -1,11 +1,11 @@
 # 👋 Olá, me chamo Pedro Alves
-💻 Tenho bons conheciemntos em SQL, Excel e Google Sheets;<br>
-👀 Atualmente, estou focado em Análise e Visualização de Dados;<br>
+💻 Tenho bons conhecimentos em SQL, Python, PowerBI e Planilhas(Excel, Google Sheets);<br>
+👀 Atualmente, estou focado na análise exploratória de dados com Python;<br>
 🌱 Estou aprendendo Python e PowerBi;<br>📫 Como me achar: pedro2032004@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro2032004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-alves-ba28a3313/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-alves-ba28a3313/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
